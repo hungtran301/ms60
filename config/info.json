@@ -61,7 +61,7 @@
           { "label":      "/", "row": 3, "col": 10, "x": 11, "y": 3 },
           { "label": "RShift", "row": 3, "col": 11, "x": 12, "y": 3 },
           { "label": "RShift", "row": 3, "col": 12, "x": 13, "y": 3 },
-          { "label": "RShift", "row": 3, "col": 12, "x": 14, "y": 3 },
+          { "label": "RShift", "row": 3, "col": 13, "x": 14, "y": 3 },
   
           { "label":  "LCtrl", "row": 4, "col":  0, "x":     0, "y": 4, "w":  1.25 },
           { "label":    "GUI", "row": 4, "col":  1, "x":   1.5, "y": 4, "w":  1.25 },
